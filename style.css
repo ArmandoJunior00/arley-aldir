@@ -117,3 +117,14 @@ section.descricao p{
     line-height: 40px;
 
 }
+
+.img-teste{
+    width: 50%;
+    height: 70%;
+    display: inline-block;
+    margin: 0 400px;
+    text-align: center;
+}
+.serv{
+    text-align: center;
+}
