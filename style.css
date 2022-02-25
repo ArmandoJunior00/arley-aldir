@@ -125,6 +125,8 @@ section.descricao p{
     margin: 0 400px;
     text-align: center;
 }
-.serv{
+.servicos{
     text-align: center;
+    width: 10%;
+    height: 40%;
 }
